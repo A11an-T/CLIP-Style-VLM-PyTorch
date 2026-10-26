@@ -99,4 +99,5 @@ print(f.updatePID(3, 0.1))
 # because we can't caculate the value so we don't add anything to the change of error per second, which could lead to tempoary overshoot. 
 # How to tackle this problem to be more accurate, "using previous calculations, finding a limit at that tangent, or using another model to tempory replace it" 
 
-#Total time Took : 4 hours 
+# Total time Took : 4 hours, I didn't ask AI to write the code or help me problem solve, rather I used it to confirm my understanding 
+# Such as derivative kick, and other syntaxes in python I forgot. 
